@@ -1,1 +1,1 @@
-# PrakFiskom_RegulaFalsi
+# PrakFiskom_Kelompol1_MetodeNumeric
